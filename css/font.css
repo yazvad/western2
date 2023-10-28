@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    font-weight: 600;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    font-style: regular;
+}
+
+@font-face {
+    font-family: 'KarloffNegativePro-Med' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Med.otf) format('truetype');
+    font-style: regular;
+}
+
+@font-face {
+    font-family: 'KarloffNegativePro-RegIta' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-RegIta.otf) format('truetype');
+    font-style: regular italic;
+}

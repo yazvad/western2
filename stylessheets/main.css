@@ -1,0 +1,552 @@
+.colora{
+    background: linear-gradient(180deg, #000853 0%, #0213B8 36.98%, #B5603B 69.79%, #F59309 81.25%, #F5C109 99.48%);
+    width: 100%;
+    height: 2210vh;
+    margin-top: -20px
+  }
+
+  h1 {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    font-weight: 600;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 60px;
+  }
+  .z {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .x {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 60px;
+    margin-left: 700px;
+    margin-top: -60px;
+  }
+
+  .c {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 60px;
+    margin-left: 1350px;
+    margin-top: -60px;
+  }
+
+  .image1 {
+    text-align: center;
+  }
+  
+  .image1 img {
+    width: 1500px;
+    height: auto;
+    margin-top: 60px;
+  }
+  
+  .image2 img {
+    width: 1200px;
+    height: auto;
+    margin-top: 200px;
+  }
+  
+  .image3 img {
+    width: 1500px;
+    height: auto;
+    text-align: center;
+  }
+  
+  .nah {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 125px;
+    margin-left: 1100px;
+    margin-top: -310px;
+    display: flex; 
+    justify-content: space-between;
+
+  }
+
+  .image4 img {
+    width: 1550px;
+    height: auto;
+    text-align: center;
+    margin-top: 210px;
+  }
+
+  .yoda {
+    font-family: 'KarloffNegativePro-Med' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Med.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 125px;
+    margin-left: -750px;
+    margin-top: -310px;
+  }
+
+  .image5 img {
+    width: 1550px;
+    height: auto;
+    text-align: center;
+    margin-top: 210px;
+  }
+
+  .agent {
+    font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 125px;
+    margin-left: 740px;
+    margin-top: -310px;
+  }
+
+  .chutelo {
+    font-family: 'KarloffNegativePro-RegIta' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-RegIta.otf) format('truetype');
+    font-weight: 500px;
+    font-style: bold;
+    color: aliceblue;
+    font-size: 125px;
+    margin-left: -780px;
+    margin-top: -310px;
+  }
+
+  .image6 img {
+    width: 1400px;
+    height: auto;
+    text-align: center;
+    margin-top: 550px;
+  }
+
+  .image7 img {
+    width: 700px;
+    height: auto;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: -900px;
+  }
+  
+  .info {
+    font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    text-align: left;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 65px;
+    margin-left: 830px;
+    margin-top: -550px;
+  }
+
+  .image8 img {
+    width: 1000px;
+    height: auto;
+    margin-top: 150px;
+  }
+
+  .image9 img {
+    width: 270px;
+    height: auto;
+    text-align: left;
+    position: relative;
+    top:450px;
+    margin-left: -1250px;
+    margin-top: 100px;
+  }
+
+  .image10 img {
+    width: 750px;
+    height: auto;
+    text-align: center;
+    margin-top: -400px;
+    position: relative;
+  }
+
+  .image11 img {
+    width: 270px;
+    height: auto;
+    text-align: right;
+    margin-right: -1200px;
+    margin-top: -900px;
+    position: relative;
+    top: 450px;
+
+  }
+
+  .rick {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 130px;
+    margin-left: 0;
+    margin-top: -990px;
+  }
+
+  .titi {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 50px;
+    margin-left: 0px;
+    margin-top: 575px;
+  }
+
+  .money {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 80px;
+    margin-left: 0px;
+    margin-top: 50px;
+  }
+
+  .image12 img {
+    width: 1650px;
+    height: auto;
+    margin-top: 200px;
+  }
+
+  .alpha {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 100px;
+    line-height: 95px;
+    margin-left: 0px;
+    margin-top: -1350px;
+  }
+
+  .rasstrel {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 100px;
+    line-height: 80px;
+    margin-left: 0px;
+    margin-top: 40px;
+  }
+
+  .fufel {
+    font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 100px;
+    line-height: 80px;
+    margin-left: 0px;
+    margin-top: 70px;
+  }
+
+.image13 img {
+  width: 600px;
+    height: auto;
+    margin-top: 1200px;
+
+}
+
+.image14 img {
+  width: 1200px;
+    height: auto;
+    margin-top: 500px;
+}
+
+.title {
+  font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 80px;
+    margin-top: -220px;
+}
+
+.haha {
+  font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 400px;
+    margin-top: 350px;
+}
+
+.image15 img {
+  width: 1200px;
+    height: auto;
+    margin-top: -250px;
+
+}
+
+.firstha {
+  font-family: 'KarloffNegativePro-Reg' ;
+  src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+  text-align: left;
+  font-weight: 500px;
+  font-style: regular;
+  color: aliceblue;
+  font-size: 40px;
+  margin-left: 200px;
+  margin-top: 0px;
+}
+
+.secondha {
+  font-family: 'KarloffNegativePro-Reg' ;
+  src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+  text-align: left;
+  font-weight: 500px;
+  font-style: regular;
+  color: aliceblue;
+  font-size: 40px;
+  margin-left: 700px;
+  margin-top: -120px;
+}
+
+.triha {
+  font-family: 'KarloffNegativePro-Reg' ;
+  src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+  text-align: left;
+  font-weight: 500px;
+  font-style: regular;
+  color: aliceblue;
+  font-size: 40px;
+  margin-left: 1110px;
+  margin-top: -80px;
+}
+
+.fourha {
+  font-family: 'KarloffNegativePro-Reg' ;
+  src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+  text-align: left;
+  font-weight: 500px;
+  font-style: regular;
+  color: aliceblue;
+  font-size: 40px;
+  margin-left: 1350px;
+  margin-top: -80px;
+}
+
+.titlehihi {
+  font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 80px;
+    margin-top: 300px;
+}
+.fi {
+  font-family: 'KarloffNegativePro-Med' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Med.otf) format('truetype');
+    text-align: left;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 350px;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+.fii {
+  font-family: 'KarloffNegativePro-Med' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Med.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 350px;
+    margin-left: 850px;
+    margin-top: -340px;
+    position: relative;
+}
+
+.image16 img {
+  width: 400px;
+    height: auto;
+  position: relative;
+  top: 250px;
+}
+
+.image17 img {
+  width: 300px;
+    height: auto;
+  position: relative;
+  top: 250px;
+}
+
+.Ha {
+  font-family: 'KarloffNegativePro-Med' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Med.otf) format('truetype');
+    text-align: left;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 350px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.image18 img {
+  width: 400px;
+    height: auto;
+  position: relative;
+  top: -355px;
+  margin-left: 800px;
+}
+
+.image21 img {
+  width: 200px;
+    height: auto;
+    position: relative;
+  top: 100px;
+}
+
+.image19 img {
+  width: 900px;
+    height: auto;
+   margin-top: -50px;
+}
+
+.image20 img {
+  width: 300px;
+    height: auto;
+   margin-top: 50px;
+}
+
+.zzz {
+  font-family: 'KarloffNegativePro-Med' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Med.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 600px;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+.zzzreg {
+  font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    text-align: right;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 600px;
+    margin-top: -595px;
+    margin-right: 150px;
+}
+
+.zzzbld {
+  font-family: 'KarloffNegativePro-Bld' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Bld.otf) format('truetype');
+    text-align: left;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 600px;
+    margin-top: -605px;
+    margin-left: 150px;
+}
+.bld {
+  font-family: 'KarloffNegativePro-RegIta' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-RegIta.otf) format('truetype');
+    text-align: left;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 100px;
+    margin-top: -70px;
+    margin-left: 230px;
+}
+
+.med {
+  font-family: 'KarloffNegativePro-RegIta' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-RegIta.otf) format('truetype');
+    text-align: center;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 100px;
+    margin-top: -105px;
+}
+
+.reg {
+  font-family: 'KarloffNegativePro-RegIta' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-RegIta.otf) format('truetype');
+    text-align: right;
+    font-weight: 500px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 100px;
+    margin-top: -100px;
+    margin-right: 170px;
+}
+
+.image22 img {
+  width: 1200px;
+    height: auto;
+   margin-top: 300px;
+}
+
+.name {
+  font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    text-align: left;
+    font-weight: 500px;
+    line-height: 60px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.year {
+  font-family: 'KarloffNegativePro-Reg' ;
+    src: url(../fonts/KarloffNegative/KarloffNegativePro-Reg.otf) format('truetype');
+    text-align: right;
+    font-weight: 500px;
+    line-height: 60px;
+    font-style: regular;
+    color: aliceblue;
+    font-size: 50px;
+    margin-top: -70px;
+    margin-right: 50px;
+}
